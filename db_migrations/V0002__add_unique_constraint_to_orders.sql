@@ -1,0 +1,1 @@
+ALTER TABLE orders ADD CONSTRAINT unique_dish_name UNIQUE (dish_name);

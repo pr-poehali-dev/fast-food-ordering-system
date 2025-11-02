@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "name": "Save order to database",
+      "method": "POST",
+      "path": "/",
+      "body": {
+        "items": [
+          {"name": "Биг Мак", "quantity": 2, "price": 350},
+          {"name": "Картофель фри", "quantity": 1, "price": 120}
+        ],
+        "total": 820
+      },
+      "expectedStatus": 200,
+      "expectedBody": {
+        "success": true,
+        "message": "string"
+      },
+      "bodyMatcher": "partial"
+    }
+  ]
+}
