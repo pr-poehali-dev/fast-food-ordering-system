@@ -118,7 +118,7 @@ const menuItems: MenuItem[] = [
     name: 'МакМаффин',
     category: 'breakfast',
     price: 150,
-    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/3049c90b-955c-46ea-9196-39159f019333.jpg',
+    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/70504a7b-a9e3-4086-8346-37a4297b25df.jpg',
     description: 'Классический английский маффин с сыром и ветчиной.',
     protein: 12,
     fat: 10,
@@ -130,7 +130,7 @@ const menuItems: MenuItem[] = [
     name: 'МакМаффин с яйцом и беконом',
     category: 'breakfast',
     price: 180,
-    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/3049c90b-955c-46ea-9196-39159f019333.jpg',
+    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/70504a7b-a9e3-4086-8346-37a4297b25df.jpg',
     description: 'Сытный завтрак с яйцом-пашот, хрустящим беконом и сыром.',
     protein: 18,
     fat: 15,
@@ -142,7 +142,7 @@ const menuItems: MenuItem[] = [
     name: 'МакМаффин с курицей',
     category: 'breakfast',
     price: 170,
-    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/3049c90b-955c-46ea-9196-39159f019333.jpg',
+    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/70504a7b-a9e3-4086-8346-37a4297b25df.jpg',
     description: 'Нежное куриное филе с сыром на английском маффине.',
     protein: 16,
     fat: 12,
@@ -154,7 +154,7 @@ const menuItems: MenuItem[] = [
     name: 'Омлет',
     category: 'breakfast',
     price: 140,
-    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/3049c90b-955c-46ea-9196-39159f019333.jpg',
+    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/fab63434-07c7-46f5-a36c-30723dc61460.jpg',
     description: 'Воздушный омлет с молоком и свежей зеленью.',
     protein: 14,
     fat: 18,
@@ -166,7 +166,7 @@ const menuItems: MenuItem[] = [
     name: 'Блины',
     category: 'breakfast',
     price: 160,
-    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/3049c90b-955c-46ea-9196-39159f019333.jpg',
+    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/6a9440c2-847f-4942-ac56-84c98e2a8b3e.jpg',
     description: 'Тонкие блины с вареньем или сгущенным молоком.',
     protein: 8,
     fat: 10,
@@ -178,7 +178,7 @@ const menuItems: MenuItem[] = [
     name: 'Маффины',
     category: 'breakfast',
     price: 130,
-    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/02ebcc5a-044f-4369-9c17-9c6c7068d639.jpg',
+    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/a9e7e907-1cdc-4b81-b62e-b03523631844.jpg',
     description: 'Свежие маффины с черникой или шоколадной крошкой.',
     protein: 5,
     fat: 12,
@@ -202,7 +202,7 @@ const menuItems: MenuItem[] = [
     name: 'Шейки',
     category: 'desserts',
     price: 150,
-    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/02ebcc5a-044f-4369-9c17-9c6c7068d639.jpg',
+    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/da94fd45-95f5-4cae-bb31-cbd13b0052a4.jpg',
     description: 'Густой молочный коктейль с мороженым и сиропом.',
     protein: 6,
     fat: 12,
@@ -238,7 +238,7 @@ const menuItems: MenuItem[] = [
     name: 'Кофе',
     category: 'drinks',
     price: 120,
-    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/02ebcc5a-044f-4369-9c17-9c6c7068d639.jpg',
+    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/07a7202d-db76-490b-9aeb-317d39dabfb6.jpg',
     description: 'Ароматный кофе из свежемолотых зерен арабики.',
     protein: 0,
     fat: 0,
@@ -250,7 +250,7 @@ const menuItems: MenuItem[] = [
     name: 'Чай',
     category: 'drinks',
     price: 80,
-    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/02ebcc5a-044f-4369-9c17-9c6c7068d639.jpg',
+    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/ec2055af-459f-4b8d-a7f5-f584441d040b.jpg',
     description: 'Черный или зеленый чай высшего качества.',
     protein: 0,
     fat: 0,
@@ -262,7 +262,7 @@ const menuItems: MenuItem[] = [
     name: 'Газированные напитки',
     category: 'drinks',
     price: 100,
-    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/02ebcc5a-044f-4369-9c17-9c6c7068d639.jpg',
+    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/3205d267-91c3-4241-af4b-e7cbc98cb8cc.jpg',
     description: 'Освежающая газировка: кола, спрайт или фанта.',
     protein: 0,
     fat: 0,
@@ -274,7 +274,7 @@ const menuItems: MenuItem[] = [
     name: 'Соки',
     category: 'drinks',
     price: 120,
-    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/02ebcc5a-044f-4369-9c17-9c6c7068d639.jpg',
+    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/c9d1f14c-a01d-4133-98fe-6c79b887193d.jpg',
     description: 'Натуральные соки: апельсин, яблоко или вишня.',
     protein: 1,
     fat: 0,
@@ -286,7 +286,7 @@ const menuItems: MenuItem[] = [
     name: 'Вода',
     category: 'drinks',
     price: 50,
-    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/02ebcc5a-044f-4369-9c17-9c6c7068d639.jpg',
+    image: 'https://cdn.poehali.dev/projects/d1ea1302-a333-405d-b3c5-51c2c556f80f/files/4043e505-0c86-41f2-83cb-2bbf029c52cf.jpg',
     description: 'Чистая питьевая вода.',
     protein: 0,
     fat: 0,
@@ -305,7 +305,7 @@ const categories = [
 ];
 
 export default function Index() {
-  const [balance, setBalance] = useState(1000);
+  const [balance, setBalance] = useState(0);
   const [cart, setCart] = useState<CartItem[]>([]);
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [selectedItem, setSelectedItem] = useState<MenuItem | null>(null);
@@ -365,7 +365,7 @@ export default function Index() {
     });
   };
 
-  const checkout = () => {
+  const checkout = async () => {
     if (cartTotal > balance) {
       toast({
         variant: 'destructive',
@@ -374,12 +374,42 @@ export default function Index() {
       });
       return;
     }
-    setBalance(prev => prev - cartTotal);
-    setCart([]);
-    toast({
-      title: 'Заказ оформлен!',
-      description: `Оплачено ${cartTotal}₽. Ваш заказ готовится.`,
-    });
+
+    const orderData = {
+      items: cart.map(item => ({
+        name: item.name,
+        quantity: item.quantity,
+        price: item.price,
+      })),
+      total: cartTotal,
+    };
+
+    try {
+      const response = await fetch('https://functions.poehali.dev/9c71217e-9b9d-49c8-9adb-c711d4bc2509', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(orderData),
+      });
+
+      if (!response.ok) {
+        throw new Error('Failed to save order');
+      }
+
+      setBalance(prev => prev - cartTotal);
+      setCart([]);
+      toast({
+        title: 'Заказ оформлен!',
+        description: `Оплачено ${cartTotal}₽. Ваш заказ готовится.`,
+      });
+    } catch (error) {
+      toast({
+        variant: 'destructive',
+        title: 'Ошибка',
+        description: 'Не удалось сохранить заказ. Попробуйте снова.',
+      });
+    }
   };
 
   const topUpBalance = () => {
@@ -432,11 +462,11 @@ export default function Index() {
             <Button
               variant="outline"
               onClick={() => setShowTopUp(true)}
-              className="gap-2"
+              className="gap-2 hover:bg-secondary"
             >
               <Icon name="Wallet" size={20} />
               <span className="hidden sm:inline">Баланс:</span>
-              <span className="font-semibold text-primary">{balance}₽</span>
+              <span className="font-semibold text-foreground">{balance}₽</span>
             </Button>
 
             <Sheet>
