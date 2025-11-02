@@ -597,11 +597,6 @@ export default function Index() {
                         alt={item.name}
                         className="h-full w-full object-cover transition-transform group-hover:scale-110"
                       />
-                      <div className="absolute top-2 right-2">
-                        <Badge className="bg-primary text-primary-foreground">
-                          {item.price}₽
-                        </Badge>
-                      </div>
                     </div>
                     <div className="p-4">
                       <h3 className="font-semibold text-lg mb-2">{item.name}</h3>
@@ -613,16 +608,21 @@ export default function Index() {
                         <span>Ж: {item.fat}г</span>
                         <span>У: {item.carbs}г</span>
                       </div>
-                      <Button
-                        className="w-full"
-                        onClick={(e) => {
-                          e.stopPropagation();
-                          addToCart(item);
-                        }}
-                      >
-                        <Icon name="Plus" size={18} className="mr-2" />
-                        В корзину
-                      </Button>
+                      <div className="flex items-center justify-between gap-3">
+                        <div className="text-2xl font-bold text-primary">
+                          {item.price}₽
+                        </div>
+                        <Button
+                          className="flex-1"
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            addToCart(item);
+                          }}
+                        >
+                          <Icon name="Plus" size={18} className="mr-2" />
+                          В корзину
+                        </Button>
+                      </div>
                     </div>
                   </Card>
                 ))}
